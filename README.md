@@ -1,2 +1,2 @@
-# instagram
-instagram clone in nest js, angular 17 &amp; iconic 5
+# instagram-clone-backend
+Instagram clone in latest version of Nest JS
